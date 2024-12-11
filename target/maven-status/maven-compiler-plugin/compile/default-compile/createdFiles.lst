@@ -1,0 +1,10 @@
+local\pgb\dukemarket\javafx\controller\MenuPrincipalController.class
+br\com\pedrogabrieldecarvalhobatista\dukemarket\javafx\PrimaryController.class
+br\com\pedrogabrieldecarvalhobatista\dukemarket\javafx\controller\ScrProdutosController.class
+local\pgb\dukemarket\javafx\controller\ScrProdutosController.class
+local\pgb\dukemarket\javafx\model\Produto.class
+module-info.class
+br\com\pedrogabrieldecarvalhobatista\dukemarket\javafx\SecondaryController.class
+connection\MySQLConnection.class
+br\com\pedrogabrieldecarvalhobatista\dukemarket\javafx\App.class
+local\pgb\dukemarket\javafx\DAO\ProdutoDAO.class
